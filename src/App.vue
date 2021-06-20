@@ -117,7 +117,7 @@ export default {
 
 .search-bar {
    min-width: 80%;
-   height: 5vh;
+   height: 55px;
    margin: 12vh 0 5vh 10vw;
    text-align: center;
    border: none;
